@@ -1,0 +1,11 @@
+
+---
+
+### `.gitignore` (to avoid saving junk files)
+
+```bash
+__pycache__/
+*.pyc
+*.log
+*.csv
+.env
